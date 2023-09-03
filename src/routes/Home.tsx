@@ -1,7 +1,7 @@
 import HomeLogo from "../assets/Home.jpg";
-import Clients from "../components/Clients/Clients";
 import HeroSection from "../components/Hero/HeroSection";
 import Navbar from "../components/Navbar/Navbar";
+import Clients from "../components/Products/Products";
 
 
 function Home() {
