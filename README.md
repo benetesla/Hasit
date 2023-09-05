@@ -48,7 +48,7 @@ Siga estas etapas para instalar e executar o Projeto Hasit em sua máquina local
 4. Inicie o servidor de desenvolvimento:
 
    ```bash
-   npm start
+   npm run dev
    ```
 5. Abra o projeto em seu navegador acessando `http://localhost:3000`.
 
